@@ -15,7 +15,9 @@ The **Bidirectional LSTM** with `maxlen=200`, early stopping, and dropout achiev
 
 ## Setup & Installation
 1.Clone the repository
+
 2.Create a virtual environment and activate it
+
 3.Install dependencies:
 > pip install -r requirements.txt
 
